@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 /*import { StaticQuery, graphql } from 'gatsby'*/
 
 import Header from '../components/header'
-import './layout.css'
+import './index.css'
 import Footer from '../components/Footer';
 
 const Layout = ({ children }) => (
