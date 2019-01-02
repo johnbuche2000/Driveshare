@@ -1,0 +1,52 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Interations and Animations",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "SVG Animation",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Componenets and Props",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Styled Components",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "GraphQL with Contentful",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Publish with Netlify",
+            "image": "https://cl.ly/9d461ed19b44"
+        },
+        {
+            "title": "Payments with Stripe",
+            "image": "https://cl.ly/9d461ed19b44"
+        }
+    ]
+}
