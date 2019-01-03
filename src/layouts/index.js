@@ -1,13 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
-/*import { StaticQuery, graphql } from 'gatsby'*/
-
+import { StaticQuery, graphql } from 'gatsby';
 import Header from '../components/header'
 import './index.css'
 import Footer from '../components/Footer';
 
-const Layout = ({ children }) => (
+const Layout = ({ children, data }) => (
       <div>
         <Helmet
           title={data.site.siteMetadata.title}
